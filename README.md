@@ -22,9 +22,10 @@ En primer lugar, voy a comenzar con una cita de su libro que creo que resume muy
 ## Re-descubriendo la hibridación: Caso de Stable Diffusion 2
 
 Stable Diffusion es una novedosa Inteligencia Artificial creada por StabilityAI, cuya primera versión fue lanzada en Agosto de 2022. Esta IA utiliza un modelo de aprendizaje profundo para generar una imagen de salida a partir de una entrada (txt2img) de texto proporcionada por el usuario, aunque no ha tardado en añadir más funciones como img2img, que permite darle una imagen y generarte otra relacionada, o funciones de escalado, retoque de imágenes y filtros.
-La principal característica diferenciadora de esta IA es que es totalmente Open-Source, incluyendo todo su código fuente y los pesos generados durante el entrenamiento. Esto permite a cualquiera con un hardware suficiente instalarla en su ordenador y generar imágenes de forma independiente, pero no solo eso, si no que también cualquiera con los conocimientos suficientes puede modificarla, mejorarla o entrenarla por su cuenta, dándole un gran potencial para crecer.
-La IA utiliza varios algoritmos de eliminación de ruido para ir mejorando la imagen, que comienza como ruido aleatorio, y que en cada una de las iteraciones va pareciéndose más a la imagen que le hemos pedido.
 
+La principal característica diferenciadora de esta IA es que es totalmente Open-Source, incluyendo todo su código fuente y los pesos generados durante el entrenamiento. Esto permite a cualquiera con un hardware suficiente instalarla en su ordenador y generar imágenes de forma independiente, pero no solo eso, si no que también cualquiera con los conocimientos suficientes puede modificarla, mejorarla o entrenarla por su cuenta, dándole un gran potencial para crecer.
+
+La IA utiliza varios algoritmos de eliminación de ruido para ir mejorando la imagen, que comienza como ruido aleatorio, y que en cada una de las iteraciones va pareciéndose más a la imagen que le hemos pedido.
 
 
 ## Re-descubriendo la hibridacion: Caso 2

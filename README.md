@@ -27,6 +27,8 @@ La principal característica diferenciadora de esta IA es que es totalmente Open
 
 La IA utiliza varios algoritmos de eliminación de ruido para ir mejorando la imagen, que comienza como ruido aleatorio, y que en cada una de las iteraciones va pareciéndose más a la imagen que le hemos pedido.
 
+![Generación de imagen por Stable Diffusion](photostablediffusion.png) 
+
 ¿Por qué es un caso de hibridación?
 Stable Difussion genera las imágenes a partir de una entrada de texto, que utiliza después para transformar y manipular los datos que ha aprendido durante su fase de entrenamiento para generar una imagen de salida. El modelo se ha entrenado a partir de millones de imágenes de todo tipo encontradas por Internet, por lo que claramente nos encontramos ante un caso de hibridación de manipulación de datos.
 Todas las imágenes del conjunto de entrenamiento han sido analizadas y estudiadas por la IA, para después realizar combinaciones y transformaciones con ellas para generar otras nuevas.

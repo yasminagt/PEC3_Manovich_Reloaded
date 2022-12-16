@@ -27,6 +27,18 @@ La principal característica diferenciadora de esta IA es que es totalmente Open
 
 La IA utiliza varios algoritmos de eliminación de ruido para ir mejorando la imagen, que comienza como ruido aleatorio, y que en cada una de las iteraciones va pareciéndose más a la imagen que le hemos pedido.
 
+¿Por qué es un caso de hibridación?
+Stable Difussion genera las imágenes a partir de una entrada de texto, que utiliza después para transformar y manipular los datos que ha aprendido durante su fase de entrenamiento para generar una imagen de salida. El modelo se ha entrenado a partir de millones de imágenes de todo tipo encontradas por Internet, por lo que claramente nos encontramos ante un caso de hibridación de manipulación de datos.
+Todas las imágenes del conjunto de entrenamiento han sido analizadas y estudiadas por la IA, para después realizar combinaciones y transformaciones con ellas para generar otras nuevas.
+ 
+Además de la hibridación que se consigue gracias a las posibilidades de la IA en sí, como generar imágenes a partir de texto, a partir de otras imágenes, o funciones extra como escalado, reducción de ruido e incluso creación de imágenes animadas, tenemos también la posibilidad de crear estilos híbridos, mezclando y combinando estilos de distintos autores o artistas. Por ejemplo, en la siguiente imagen se ve cómo he generado una imagen de la catedral de Notre Dame en estilo realista con el cielo de “La Noche Estrellada” de Van Gogh.
+ 
+Sin duda creo que es una tecnología con un gran potencial para cambiar la forma de interpretar y crear arte. Estoy segura de que la aparición de este tipo de IAs va a suponer un antes y un después en la historia del diseño y la creatividad. Es muy posible que este tipo de herramientas todavía experimenten un gran proceso de mejora y refinamiento, y se comiencen a integrar en las “pipelines” de los flujos de producción de forma similar a lo que ocurrió en los años 90’s con herramientas como Adobe Photoshop o After Effects.
+
+La innovación de este tipo de herramientas sin duda va a hacer posible la creación de nuevos estilos y flujos de trabajo, además de permitir que más personas sean capaces de mostrar su visión e interpretación de la realidad.
+Para finalizar, cito algunas líneas de Manovich:
+> “Una de las razones es que, en esta revolución, ningún nuevo medio per se fue creado. Justo como lo hicieron diez años antes, los diseñadores hacían imágenes fijas e imágenes en movimiento. Pero la estética de estas imágenes era ahora muy diferente.” — Página 221
+
 
 ## Re-descubriendo la hibridacion: Caso 2
 

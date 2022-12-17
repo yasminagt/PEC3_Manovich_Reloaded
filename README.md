@@ -54,6 +54,8 @@ Su funcionamiento es bastante simple, puedes apuntar la cámara de tu teléfono 
 
 La herramienta además tiene la capacidad de aprender y mejorarse a sí misma gracias al aprendizaje automático y al análisis de imágenes ya clasificadas disponibles en Internet. De hecho, hay artículos que describen cómo Google utilizó sus famosos Captcha para entregar a su inteligencia artificial en el reconocimiento de imágenes (link artículo).
 
+![Google Lens apuntando a un helado](photoLens1.jpeg) 
+
 ¿Por qué es un caso de hibridación?
 
 Al igual que en el caso anterior, no podemos decir que se trate de un simple caso de multimedia. Google Lens es una herramienta muy completa que está cambiando la forma en la que nos relacionamos con la realidad. Es un ejemplo más de Realidad Aumentada, que nos permite observar el mundo real, pero añadiendo además una capa extra de información que se superpone a lo que vemos a simple vista.

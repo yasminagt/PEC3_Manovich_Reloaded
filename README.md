@@ -18,6 +18,7 @@ En el libro “El software toma el mando” (2013), Manovich presenta su concept
 En primer lugar, voy a comenzar con una cita de su libro que creo que resume muy eficazmente el concepto de hibridación: 
 “Las propiedades y técnicas únicas de diferentes medios se volvieron elementos de software que se pueden combinar de formas imposibles previamente.” (Página 148)
 
+Además, el objetivo también es confirmar que cada uno de los casos se trata de una hibridación y no de un caso de multimedia. Para que se trate de una hibridación es necesario que todos los elementos se presenten de forma conjunta generando una experiencia nueva para el usuario, mientras que en un caso multimedia cada elemento se experimentaría por separado.
 
 ## Re-descubriendo la hibridación: Caso de Stable Diffusion 2
 

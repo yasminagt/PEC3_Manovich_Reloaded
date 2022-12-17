@@ -46,9 +46,26 @@ Para finalizar, cito algunas líneas de Manovich:
 > “Una de las razones es que, en esta revolución, ningún nuevo medio per se fue creado. Justo como lo hicieron diez años antes, los diseñadores hacían imágenes fijas e imágenes en movimiento. Pero la estética de estas imágenes era ahora muy diferente.” — Página 221
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridación: Caso de Google Lens
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Google Lens es una herramienta de realidad aumentada y búsqueda visual desarrollada por Google y anunciada en el año 2017. Esta herramienta utiliza la Inteligencia Artificial para reconocer y entender las imágenes, de forma que puede identificar objetos, edificios, animales, plantas y muchas otras características en fotos y vídeos.
+
+Su funcionamiento es bastante simple, puedes apuntar la cámara de tu teléfono hacia el objeto, y Google Lens analizará la imagen y mostrará información sobre lo que ve en ella. También puede reconocer textos, permitiendo copiarlos o traducirlos directamente sobre la imagen.
+
+La herramienta además tiene la capacidad de aprender y mejorarse a sí misma gracias al aprendizaje automático y al análisis de imágenes ya clasificadas disponibles en Internet. De hecho, hay artículos que describen cómo Google utilizó sus famosos Captcha para entregar a su inteligencia artificial en el reconocimiento de imágenes (link artículo).
+
+¿Por qué es un caso de hibridación?
+
+Al igual que en el caso anterior, no podemos decir que se trate de un simple caso de multimedia. Google Lens es una herramienta muy completa que está cambiando la forma en la que nos relacionamos con la realidad. Es un ejemplo más de Realidad Aumentada, que nos permite observar el mundo real, pero añadiendo además una capa extra de información que se superpone a lo que vemos a simple vista.
+
+Además, esta tecnología añade al mundo real la posibilidad de utilizar ciertas herramientas que, como dice Manovich, son propias del metamedio informático. Por ejemplo, gracias a Google Lens tenemos la opción de apuntar la cámara al texto de un cartel que veamos por la calle, y traducirlo directamente o incluso copiarlo y pegarlo en otra aplicación.
+
+Sobre el tipo de hibridación, podemos decir que vuelve a tratarse de una hibridación de manipulación de datos, ya que nos permite en cierto modo digitalizar datos e información del mundo real, cambiando la forma en la que podemos interactuar y hacer uso de ellos. Además, la aplicación está integrada con otros servicios, ya que permite buscar los resultados directamente en el buscador de Google, lo que aumenta la versatilidad de la aplicación.
+Sin embargo, en este caso creo que también podemos hablar de hibridación de la interfaz de usuario, ya que nos ofrece una nueva forma de interactuar con el mundo físico utilizando esta aplicación.
+
+En mi experiencia personal, he utilizado Google Lens en múltiples ocasiones para obtener información detallada de cosas a mi alrededor. Por ejemplo, lo he usado para encontrar ropa similar a la que lleva una persona que veo por la calle (y que no voy a parar para preguntarle por ella), o para descubrir datos interesantes sobre plantas, árboles o insectos que me encuentro por la zona, permitiéndome saber el nombre de una raza de perro, el tipo de especie al que pertenece una planta o flor, o saber si ese insecto que se me ha colado en el salón puede picarme o no.
+
+En general, creo que es una herramienta con mucho potencial y que seguramente reciba más funciones en el futuro.
 
 
 ### Referencias y Bibliografía

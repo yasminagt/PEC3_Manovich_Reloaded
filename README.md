@@ -8,10 +8,6 @@ Autor: Yasmina González Torres
 
 Fecha: 15/12/2022
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
-
 ## Introducción
 
 En el libro “El software toma el mando” (2013), Manovich presenta su concepto de hibridación y nos pone varios ejemplos. En este reto se nos pide introducir y analizar dos casos de hibridación moderna, que podrían haber tenido cabida en el libro.
